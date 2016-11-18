@@ -1,0 +1,16 @@
+﻿  mainRunNetwork.cpp
+d:\vs_projects\gotoolymp3\neuralnetworkrun\neuralnetwork.h(292): warning C4002: слишком много фактических параметров для макроопределения "assert"
+d:\vs_projects\gotoolymp3\neuralnetworkrun\neuralnetwork.h(294): warning C4002: слишком много фактических параметров для макроопределения "assert"
+d:\vs_projects\gotoolymp3\neuralnetworkrun\neuralnetwork.h(509): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\neuralnetworkrun\neuralnetwork.h(518): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\neuralnetworkrun\neuralnetwork.h(528): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\neuralnetworkrun\neuralnetwork.h(531): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\neuralnetworkrun\neuralnetwork.h(543): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\neuralnetworkrun\neuralnetwork.h(546): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\neuralnetworkrun\neuralnetwork.h(549): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\neuralnetworkrun\mainrunnetwork.cpp(33): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+d:\vs_projects\gotoolymp3\neuralnetworkrun\mainrunnetwork.cpp(34): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+d:\vs_projects\gotoolymp3\neuralnetworkrun\mainrunnetwork.cpp(75): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\vs_projects\gotoolymp3\neuralnetworkrun\mainrunnetwork.cpp(82): warning C4018: <: несоответствие типов со знаком и без знака
+  NeuralNetworkRun.vcxproj -> D:\VS_projects\GoToOlymp3\Debug\NeuralNetworkRun.exe
+  NeuralNetworkRun.vcxproj -> D:\VS_projects\GoToOlymp3\Debug\NeuralNetworkRun.pdb (Partial PDB)

@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GoToOlymp3.vcxproj, RawFeaturesDetector.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(92): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(116): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(161): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(293): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(295): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(312): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(370): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(511): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(583): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(586): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(591): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(613): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(647): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(688): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(691): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(711): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(713): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(740): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(763): warning C4018: <: несоответствие типов со знаком и без знака
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(203): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(122): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::pair<__int64,int>::pair<__int64,__int64,void,0>(std::pair<__int64,__int64> &&) noexcept"
+  d:\vs_projects\gotoolymp3\gotoolymp3\main.cpp(122): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::pair<__int64,int>::pair<__int64,__int64,void,0>(std::pair<__int64,__int64> &&) noexcept"
+  GoToOlymp3.vcxproj -> D:\VS_projects\GoToOlymp3\Debug\FeaturesDetector.exe
+  GoToOlymp3.vcxproj -> D:\VS_projects\GoToOlymp3\Debug\FeaturesDetector.pdb (Partial PDB)

@@ -1,0 +1,70 @@
+﻿  GeneticEngine.cpp
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(297): warning C4002: слишком много фактических параметров для макроопределения "assert"
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(299): warning C4002: слишком много фактических параметров для макроопределения "assert"
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(374): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(377): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(380): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(386): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(389): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(561): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(570): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(580): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(583): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(595): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(598): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(601): warning C4018: <: несоответствие типов со знаком и без знака
+c:\program files (x86)\windows kits\8.1\include\um\msxml.h(10085): error C2371: extra::XMLDocument: переопределение; различные базовые типы
+  c:\program files (x86)\windows kits\8.1\include\um\msxml.h(294): note:  см. объявление "extra::XMLDocument"
+d:\vs_projects\gotoolymp3\geneticalgorithm\geneticengine.cpp(37): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\vs_projects\gotoolymp3\geneticalgorithm\geneticengine.cpp(82): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\geneticengine.cpp(90): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\geneticengine.cpp(97): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\geneticengine.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Компиляция...
+  mainGenetic.cpp
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(7): error C2065: string: необъявленный идентификатор
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(7): error C2923: std::vector: "string" не является допустимым аргументом типа шаблон для параметра "_Ty"
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(7): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(34): error C2065: string: необъявленный идентификатор
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(34): error C2923: std::vector: "string" не является допустимым аргументом типа шаблон для параметра "_Ty"
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(34): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(34): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(35): error C2079: "extra::split" использует неопределенный class "std::vector"
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(36): error C2923: std::vector: "string" не является допустимым аргументом типа шаблон для параметра "_Ty"
+  d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(34): note:  см. объявление "string"
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(36): error C2133: dest: неизвестный размер
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(36): error C2512: std::vector: нет подходящего конструктора по умолчанию
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(682): note:  см. объявление "std::vector"
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(38): error C2065: str: необъявленный идентификатор
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(38): error C2228: выражение слева от ".c_str" должно представлять класс, структуру или объединение
+  d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(38): note: тип: unknown-type
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(39): error C2065: delim: необъявленный идентификатор
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(42): error C2663: std::vector<_Ty,_Alloc>::push_back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(43): error C2065: delim: необъявленный идентификатор
+d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(46): error C2440: return: невозможно преобразовать "std::vector" в "std::vector"
+  d:\vs_projects\gotoolymp3\geneticalgorithm\extra.hpp(46): note: Не удается копировать конструкцию class "std::vector", так как конструкторы копий неоднозначны или отсутствуют
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(297): warning C4002: слишком много фактических параметров для макроопределения "assert"
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(299): warning C4002: слишком много фактических параметров для макроопределения "assert"
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(374): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(377): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(380): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(386): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(389): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(561): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(570): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(580): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(583): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(595): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(598): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\neuralnetwork.h(601): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vs_projects\gotoolymp3\geneticalgorithm\maingenetic.cpp(29): error C2664: "std::vector split(const int)": невозможно преобразовать аргумент 1 из "std::string" в "const int"
+  d:\vs_projects\gotoolymp3\geneticalgorithm\maingenetic.cpp(29): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+d:\vs_projects\gotoolymp3\geneticalgorithm\maingenetic.cpp(30): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+d:\vs_projects\gotoolymp3\geneticalgorithm\maingenetic.cpp(31): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+d:\vs_projects\gotoolymp3\geneticalgorithm\maingenetic.cpp(38): error C2664: "std::vector split(const int)": невозможно преобразовать аргумент 1 из "std::string" в "const int"
+  d:\vs_projects\gotoolymp3\geneticalgorithm\maingenetic.cpp(38): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+d:\vs_projects\gotoolymp3\geneticalgorithm\maingenetic.cpp(71): warning C4800: double: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\vs_projects\gotoolymp3\geneticalgorithm\maingenetic.cpp(109): warning C4800: double: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Создание кода...
